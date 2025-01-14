@@ -1,0 +1,70 @@
+
+
+.meal {
+    width: 200px; 
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.meal img {
+    width: 100px; 
+    height: 100px; 
+    object-fit: cover;
+
+}
+
+.meal h5 {
+    font-size: 1em; 
+}
+
+.meal p {
+    font-size: 0.8em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+.meal button {
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    padding: 5px;
+}
+.meal_container{
+    margin: 20px;
+    text-align: center;
+}
+
+.food-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.meal-detail { 
+    text-align: center;
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin: 5px 0; 
+    background-color: #f9f9f9; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    font-size: 0.9em; 
+    width: 300px; 
+    max-height: 300px; 
+    overflow: auto; 
+    box-sizing: border-box; 
+}
+
+.meal-detail h3 { 
+    margin-top: 0; 
+} 
+.meal-detail img {
+    max-width: 50%; 
+    height: auto; 
+    display: flex; 
+    margin-left: 50px;
+    margin-bottom: 10px; 
+}
