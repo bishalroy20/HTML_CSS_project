@@ -57,7 +57,10 @@
     overflow: auto; 
     box-sizing: border-box; 
 }
-
+#search-food{
+   color: #ccc;
+   background-color: blueviolet; 
+}
 .meal-detail h3 { 
     margin-top: 0; 
 } 
