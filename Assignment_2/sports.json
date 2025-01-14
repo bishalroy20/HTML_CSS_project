@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Usain Bolt",
+      "age": 36,
+      "country": "Jamaica",
+      "sport": "Athletics",
+      "picture": "https://example.com/images/usain_bolt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi",
+      "age": 36,
+      "country": "Argentina",
+      "sport": "Football",
+      "picture": "https://example.com/images/lionel_messi.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Serena Williams",
+      "age": 42,
+      "country": "USA",
+      "sport": "Tennis",
+      "picture": "https://example.com/images/serena_williams.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Michael Phelps",
+      "age": 38,
+      "country": "USA",
+      "sport": "Swimming",
+      "picture": "https://example.com/images/michael_phelps.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Virat Kohli",
+      "age": 35,
+      "country": "India",
+      "sport": "Cricket",
+      "picture": "https://example.com/images/virat_kohli.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cristiano Ronaldo",
+      "age": 39,
+      "country": "Portugal",
+      "sport": "Football",
+      "picture": "https://example.com/images/cristiano_ronaldo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Naomi Osaka",
+      "age": 26,
+      "country": "Japan",
+      "sport": "Tennis",
+      "picture": "https://example.com/images/naomi_osaka.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Simone Biles",
+      "age": 27,
+      "country": "USA",
+      "sport": "Gymnastics",
+      "picture": "https://example.com/images/simone_biles.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Roger Federer",
+      "age": 42,
+      "country": "Switzerland",
+      "sport": "Tennis",
+      "picture": "https://example.com/images/roger_federer.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Novak Djokovic",
+      "age": 37,
+      "country": "Serbia",
+      "sport": "Tennis",
+      "picture": "https://example.com/images/novak_djokovic.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Megan Rapinoe",
+      "age": 39,
+      "country": "USA",
+      "sport": "Football",
+      "picture": "https://example.com/images/megan_rapinoe.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sachin Tendulkar",
+      "age": 50,
+      "country": "India",
+      "sport": "Cricket",
+      "picture": "https://example.com/images/sachin_tendulkar.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tom Brady",
+      "age": 46,
+      "country": "USA",
+      "sport": "American Football",
+      "picture": "https://example.com/images/tom_brady.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tiger Woods",
+      "age": 48,
+      "country": "USA",
+      "sport": "Golf",
+      "picture": "https://example.com/images/tiger_woods.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Lewis Hamilton",
+      "age": 39,
+      "country": "United Kingdom",
+      "sport": "Formula 1",
+      "picture": "https://example.com/images/lewis_hamilton.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Kylian Mbappé",
+      "age": 25,
+      "country": "France",
+      "sport": "Football",
+      "picture": "https://example.com/images/kylian_mbappe.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Yuzuru Hanyu",
+      "age": 29,
+      "country": "Japan",
+      "sport": "Figure Skating",
+      "picture": "https://example.com/images/yuzuru_hanyu.jpg"
+    },
+    {
+      "id": 18,
+      "name": "PV Sindhu",
+      "age": 29,
+      "country": "India",
+      "sport": "Badminton",
+      "picture": "https://example.com/images/pv_sindhu.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Shaun White",
+      "age": 37,
+      "country": "USA",
+      "sport": "Snowboarding",
+      "picture": "https://example.com/images/shaun_white.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Eliud Kipchoge",
+      "age": 39,
+      "country": "Kenya",
+      "sport": "Marathon Running",
+      "picture": "https://example.com/images/eliud_kipchoge.jpg"
+    }
+  ]
+  
